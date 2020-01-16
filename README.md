@@ -2,7 +2,7 @@ start at 16 Jan 2020
 
 # Paint JS
 
-<!-- [Momentum 바로가기](https://momentumdash.com/) -->
+Javascript로 캔버스 만들기
 
 ## Reference
 
@@ -10,8 +10,10 @@ start at 16 Jan 2020
 
 ## 기능
 
-<!-- 1. 캔버스 API 불러오기 -->
+1. 캔버스 브러쉬 색깔 정하기
+2. 브러쉬 사이즈
+3. 이미지 저장하기
 
 ## 완성 이미지
 
-<!-- ![완성본](/images/preview/preview.png) -->
+![완성본](/image/preview.png)
